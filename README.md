@@ -25,6 +25,8 @@ App website: https://amazona-shopping.herokuapp.com/
 ## Shipping Page
 1)Users can type their name and address. Additionally, they also can choose thier location by clicking the "Choose On Map" button.
 <img width="1437" alt="Screen Shot 2022-01-11 at 11 39 13 PM" src="https://user-images.githubusercontent.com/81335671/148944278-f12cdb0b-edef-41da-a1d3-110445cdded5.png">
+<img width="1437" alt="Screen Shot 2022-01-11 at 11 47 07 PM" src="https://user-images.githubusercontent.com/81335671/148945227-4db5a1ad-fac4-4fe9-ac51-a250645d2bc2.png">
+
 
 ## Payment Page
 1) Users can see their order ID, shipping address and order items
