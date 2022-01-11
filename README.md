@@ -1,4 +1,4 @@
-#  App Instruction
+#  Amazona Shopping
 
 ## App website:
 
